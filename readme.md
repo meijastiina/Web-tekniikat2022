@@ -1,0 +1,1 @@
+Tässä repositoriossa on kaikki Web-tekniikat opintojakson esimerkkikoodit.
